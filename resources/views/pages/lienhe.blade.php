@@ -25,7 +25,7 @@
                 
                 <div class="break"></div>
                    <h4><span class= "glyphicon glyphicon-home "></span> Địa chỉ : </h4>
-                <p>Nhóm 21 </p>
+                <p>Nhóm 25 </p>
 
                 <h4><span class="glyphicon glyphicon-envelope"></span> Email : </h4>
                 <p>Tuan.nh184221@sis.hust.edu.vn</p>

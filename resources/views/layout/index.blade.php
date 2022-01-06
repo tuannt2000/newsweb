@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Nhóm 21</title>
+    <title>Nhóm 25</title>
     <base href="{{asset('')}}">
     <!-- Bootstrap Core CSS -->
     <link href="user_asset/css/bootstrap.min.css" rel="stylesheet">

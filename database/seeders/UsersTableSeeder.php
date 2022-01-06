@@ -14,7 +14,7 @@ class UsersTableSeeder extends Seeder
         //
         for($i = 1; $i <= 10;$i++)
         {
-        	\DB::table('Users')->insert(
+        	\DB::table('users')->insert(
 	        	[
 	        		'name' => 'User_'.$i,
 	            	'email' => 'user_'.$i.'@mymail.com',

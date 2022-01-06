@@ -7,7 +7,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Nhóm 21</a>
+                <a class="navbar-brand" href="index.html">Nhóm 25</a>
             </div>
             <!-- /.navbar-header -->
 
