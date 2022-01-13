@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Seeders;
+
 use Illuminate\Database\Seeder;
 
 class UsersTableSeeder extends Seeder
@@ -20,7 +22,7 @@ class UsersTableSeeder extends Seeder
 	            	'email' => 'user_'.$i.'@mymail.com',
 	            	'password' => bcrypt('123456'),
 	            	'quyen'=> 0,
-	            	'created_at' => new DateTime(),
+	            	'created_at' => new \DateTime(),
 	        	]
         	);
         }

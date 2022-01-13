@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Seeders;
+
 use Illuminate\Database\Seeder;
 
 class CommentTableSeeder extends Seeder
@@ -32,7 +34,7 @@ class CommentTableSeeder extends Seeder
 	        		'idUser' => rand(1,10),
 	            	'idTinTuc' => rand(1,100),
 	            	'NoiDung' => $NoiDung[rand(0,9)],
-	            	'created_at' => new DateTime()
+	            	'created_at' => new \DateTime()
 	        	]
 	    	);
     	}
